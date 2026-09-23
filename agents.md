@@ -8,4 +8,4 @@
 # Rules 
 - I am a beginner: explain changes simply
 - Never commit .env or API keys
--  
+- Run and tests after every change
